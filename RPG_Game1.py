@@ -171,13 +171,3 @@ new_game.run_game_loop(1)
 
 pygame.quit()
 quit()
-
-    ##player_image = pygame.image.load("C:/Users/Owner/Desktop/Pygame Project Files/player.png")
-       ##player_image = pygame.transform.scale(player_image, (50, 50))
-
-
-        #pygame.draw.rect(game_display, Black_Color, [350, 350, 100, 100])
-        #pygame.draw.circle(game_display, Black_Color, (400, 300), 50)
-
-        #game_screen.blit(player_image, (375, 375))
-
